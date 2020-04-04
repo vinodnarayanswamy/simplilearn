@@ -3,5 +3,3 @@ This is my first statement !! Welcome to git vinod"
 for(i-0;i<10;i++)
 
 change 6
-
-revert changes change 7
