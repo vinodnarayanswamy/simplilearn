@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Change No 4 for Feature 1 April 14
 
 //Feature1 Changes April14//
@@ -7,6 +8,15 @@ Change No 4 for Feature 1 April 14
 Chnages on Integartion-dev branch April14
 
 >>>>>>> integration-dev br changes
+=======
+Feature 2 change 4 april14
+
+Changes on Feature2 branch//April14
+
+New Hotfix Changes//14April
+hotfix changes for ver 0.1.1
+////
+>>>>>>> Feature2
 This is my first statement !! Welcome to git vinod"
 
 for(i-0;i<10;i++)
